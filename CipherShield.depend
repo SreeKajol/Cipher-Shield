@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733569031 source:c:\users\user\desktop\ciphershield\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<windows.h>
+
